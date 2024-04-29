@@ -1,4 +1,4 @@
-STQD6324 Data Management
+#STQD6324 Data Management
 
 Banks offer various product such as accounts and services to their customers. In order to gain more profit, most bank in the world run marketing campaigns to promote specific products like credit cards, savings accounts, or loans. These campaigns usually target existing customers, but they need to be cost-effective to maximize profit.
 
